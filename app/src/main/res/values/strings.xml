@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android Studio</string>
+    <string name="app_textview">Nao sabe não mexe</string>
+</resources>

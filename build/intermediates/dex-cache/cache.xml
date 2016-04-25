@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_aaf89859b9b83e3b62e89bf12d6e1ba2b2fe0f48.jar" />
+    </item>
+    <item
+        jar="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_395fee216969e70d7212ea2c1fe16136bf8d4d54.jar" />
+    </item>
+    <item
+        jar="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_8d632f6eb2a365bb821749d9d1005c3ac3b380c2.jar" />
+    </item>
+    <item
+        jar="/home/marcostefanelli/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_3034bb5752ed2c9241b2e115fa1d008f25d22658.jar" />
+    </item>
+    <item
+        jar="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_908c97f0be27e7c18ab59a374d680978450e317a.jar" />
+    </item>
+    <item
+        jar="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/marcostefanelli/AndroidStudioProjects/HelloAndroidStudio/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_8f444a29f5f90cc0bcb84c8a74cb7b664e03ba0d.jar" />
+    </item>
+
+</items>
